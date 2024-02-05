@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"skill-icons:instagram",
+        "link":""
+    },
+    {
+        "id":2,
+        "name":"devicon:linkedin",
+        "link":""
+    },
+    {
+        "id":3,
+        "name":"icon-park:dribble",
+        "link":""
+    },
+    {
+        "id":4,
+        "name":"devicon:behance",
+        "link":""
+    }
+
+]

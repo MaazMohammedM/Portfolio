@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "companyName":"Infosys Limited, Bengaluru",
+        "duration":"Nov 2021 - Present | System Engineer",
+        "desc":"During my tenure at Infosys, I played a pivotal role in the development of the Inspector tool, a critical solution for the client company. The project involved crafting a comprehensive tool for the testing team, providing a centralized dashboard for scheduling and managing test cases.",
+        "highlight":"I was responsible for the end-to-end development lifecycle, including UI component creation, bug resolution, and overall tool functionality assurance. This encompassed developing intuitive and efficient UI components, meticulously debugging the tool, and ensuring its seamless operation.",
+        "tech":"HTML, CSS, JS, React.js, Mocha.",
+        "conclusion":"My journey with the Inspector tool project at Infosys not only enriched my technical expertise but also deepened my understanding of the intricate balance between design and functionality. Contributing to a tool pivotal in the testing process was a rewarding experience, and I take pride in being part of a team that delivered impactful solutions."
+    }
+]

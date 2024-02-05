@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "vscode-icons:file-type-html"
+  },
+  {
+    "id": 2,
+    "name": "vscode-icons:file-type-css"
+  },
+  {
+    "id": 3,
+    "name": "vscode-icons:file-type-js-official"
+  },
+  {
+    "id": 4,
+    "name": "skill-icons:react-dark"
+  },
+  {
+    "id": 5,
+    "name": "skill-icons:tailwindcss-dark"
+  },
+  {
+    "id": 6,
+    "name": "icon-park:seo"
+  },
+  {
+    "id": 7,
+    "name": "skill-icons:sass"
+  },
+  
+  {
+    "id": 8,
+    "name": "skill-icons:git"
+  },
+  {
+    "id": 9,
+    "name": "logos:npm-icon"
+  },
+  {
+    "id": 10,
+    "name": "dashicons:rest-api",
+    "color":"black"
+  },
+  {
+    "id": 11,
+    "name": "devicon:mocha"
+  },
+  {
+    "id": 12,
+    "name": "skill-icons:bootstrap"
+  },
+  {
+    "id": 13,
+    "name": "skill-icons:netlify-dark"
+  },
+  {
+    "id": 14,
+    "name": "logos:figma"
+  },
+  {
+    "id": 15,
+    "name": "simple-icons:githubpages",
+    "color":"black"
+  }
+]

@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./Components/Header/header";
+import Certification from "./pages/Certification";
+import Exp from "./pages/Exp";
+import Hero from "./pages/Hero";
+import Projects from "./pages/Projects";
+import Skills from "./pages/Skills";
+import WorkExp from "./pages/WorkExp";
+import Form from "./pages/Form";
+import Connect from "./pages/Connect";
+import Footer from "./pages/Footer";
 
-function App() {
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+    <Header/>
+    <main className="w-full">
+      <Hero/>
+      <Exp/>
+      <WorkExp/>
+      <Projects/>
+      <Skills/>
+      <Certification/>
+      <Form/>
+      <Connect/>
+    </main>
+    <Footer/>
+    </>
+  )
 }
 
-export default App;
