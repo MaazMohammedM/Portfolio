@@ -17,25 +17,29 @@
       "id": 3,
       "heading": "Strategic Moves: Stone-Paper-Scissor Game",
       "paragraph": "A fun and interactive game allowing users to play the classic Stone, Paper, Scissor game online. Enjoy challenging opponents and test your strategy in this timeless game of wits.",
-      "image" :"https://images.unsplash.com/photo-1522032662723-6649e699785f?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image" :"https://images.unsplash.com/photo-1522032662723-6649e699785f?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://suazbakery.netlify.app/"
     },
     {
       "id": 4,
       "heading": "Recipe Generator: Make Food Using Recipe Generator",
       "paragraph": "recipe Generator for ingredient-based searches and explore diverse cuisines. Save and view detailed recipes with a user-friendly interface, real-time suggestions, and responsive design.",
-      "image" :"https://images.unsplash.com/photo-1627907228175-2bf846a303b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image" :"https://images.unsplash.com/photo-1627907228175-2bf846a303b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://suazbakery.netlify.app/"
     },
     {
       "id": 5,
       "heading": "Wanderlust Chronicles: Travel Photography Blog",
       "paragraph": "Explore the captivating journeys and stunning photography of a travel enthusiast. This static blog showcases the photographer's adventures, travel tips, and breathtaking images from around the globe.",
-      "image" :"https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image" :"https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://suazbakery.netlify.app/"
     },
     {
       "id": 6,
       "heading": "Task Tracker: Interactive Web Task Tracker With Drag and Drop",
       "paragraph": "A dynamic Task managment website which allows the user to interact with the task created. This project explores modern web development techniques, offering a seamless and engaging user experience.",
-      "image" :"https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image" :"https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://suazbakery.netlify.app/"
     }
   ]
   
