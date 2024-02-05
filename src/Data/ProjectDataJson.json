@@ -3,11 +3,12 @@
       "id": 1,
       "heading": "Company Explorer Hub: A Company List Website",
       "paragraph": "A website that showcases a comprehensive list of hundreds of companies, providing detailed information about each company's profile, services, and contact details.",
-      "image" :"https://images.unsplash.com/photo-1516031190212-da133013de50?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image" :"https://images.unsplash.com/photo-1516031190212-da133013de50?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://suazbakery.netlify.app/"
     },
     {
       "id": 2,
-      "heading": "Sweet Bliss Bakery: A lovely Bakery",
+      "heading": "Suaz Bakery cafe: A lovely Bakery",
       "paragraph": "A static webpage for a charming bakery run by a couple. The website highlights the bakery's unique offerings, delightful treats, and the heartwarming story of the couple behind it.",
       "image" :"https://images.unsplash.com/photo-1568254183919-78a4f43a2877?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
