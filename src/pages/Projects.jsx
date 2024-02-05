@@ -1,7 +1,7 @@
 import React from "react";
 import ProjectCard from "../Components/Cards/ProjectCard";
 import projectData from '../Data/ProjectDataJson.json';
-// import clsx from "clsx";
+
 
 const Projects =()=>{
 
