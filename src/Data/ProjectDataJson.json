@@ -1,10 +1,10 @@
 [
     {
       "id": 1,
-      "heading": "Company Explorer Hub: A Company List Website",
-      "paragraph": "A website that showcases a comprehensive list of hundreds of companies, providing detailed information about each company's profile, services, and contact details.",
-      "image" :"https://images.unsplash.com/photo-1516031190212-da133013de50?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "link":"https://suazbakery.netlify.app/"
+      "heading": "Todo Website",
+      "paragraph": "A straightforward and user-friendly website designed for managing to-do lists. Explore a range of tasks, each with a clear description and status. Easily mark tasks as completed. Simplify your task management with this basic and intuitive to-do website.",
+      "image" :"https://images.unsplash.com/photo-1598791318878-10e76d178023?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://todoappmaaz.netlify.app/"
     },
     {
       "id": 2,
@@ -15,9 +15,9 @@
     },
     {
       "id": 3,
-      "heading": "Strategic Moves: Stone-Paper-Scissor Game",
-      "paragraph": "A fun and interactive game allowing users to play the classic Stone, Paper, Scissor game online. Enjoy challenging opponents and test your strategy in this timeless game of wits.",
-      "image" :"https://images.unsplash.com/photo-1522032662723-6649e699785f?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "heading": "Strategic Moves: Tic Tac Toe Game",
+      "paragraph": "A fun and interactive game allowing users to play the classic Tic Tac Toe game online. Enjoy challenging opponents and test your strategy in this timeless game of wits.",
+      "image" :"https://images.unsplash.com/photo-1668901382969-8c73e450a1f5?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "link":"https://suazbakery.netlify.app/"
     },
     {
@@ -32,14 +32,14 @@
       "heading": "Wanderlust Chronicles: Travel Photography Blog",
       "paragraph": "Explore the captivating journeys and stunning photography of a travel enthusiast. This static blog showcases the photographer's adventures, travel tips, and breathtaking images from around the globe.",
       "image" :"https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "link":"https://suazbakery.netlify.app/"
+      "link":"https://travelblogmaaz.netlify.app/"
     },
     {
       "id": 6,
-      "heading": "Task Tracker: Interactive Web Task Tracker With Drag and Drop",
-      "paragraph": "A dynamic Task managment website which allows the user to interact with the task created. This project explores modern web development techniques, offering a seamless and engaging user experience.",
-      "image" :"https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "link":"https://suazbakery.netlify.app/"
+      "heading": "Git Finder: Interactive Website to Find Github Users",
+      "paragraph": "A dynamic website which allows the user to interact with the task created. This project explores modern web development techniques, offering a seamless and engaging user experience.",
+      "image" :"https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?q=80&w=2043&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://githubuserfindermaaz.netlify.app/"
     }
   ]
   
