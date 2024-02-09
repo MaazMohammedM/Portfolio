@@ -20,22 +20,16 @@
       "image" :"https://images.unsplash.com/photo-1668901382969-8c73e450a1f5?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "link":"https://tictacttoebymaaz.netlify.app/"
     },
+   
     {
       "id": 4,
-      "heading": "Recipe Generator: Make Food Using Recipe Generator",
-      "paragraph": "recipe Generator for ingredient-based searches and explore diverse cuisines. Save and view detailed recipes with a user-friendly interface, real-time suggestions, and responsive design.",
-      "image" :"https://images.unsplash.com/photo-1627907228175-2bf846a303b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "link":"https://suazbakery.netlify.app/"
-    },
-    {
-      "id": 5,
       "heading": "Wanderlust Chronicles: Travel Photography Blog",
       "paragraph": "Explore the captivating journeys and stunning photography of a travel enthusiast. This static blog showcases the photographer's adventures, travel tips, and breathtaking images from around the globe.",
       "image" :"https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "link":"https://travelblogmaaz.netlify.app/"
     },
     {
-      "id": 6,
+      "id": 5,
       "heading": "Git Finder: Interactive Website to Find Github Users",
       "paragraph": "A dynamic website which allows the user to interact with the task created. This project explores modern web development techniques, offering a seamless and engaging user experience.",
       "image" :"https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?q=80&w=2043&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
