@@ -22,10 +22,10 @@
     },
     {
       "id": 4,
-      "heading": "Recipe Generator: Make Food Using Recipe Generator",
-      "paragraph": "recipe Generator for ingredient-based searches and explore diverse cuisines. Save and view detailed recipes with a user-friendly interface, real-time suggestions, and responsive design.",
-      "image" :"https://images.unsplash.com/photo-1627907228175-2bf846a303b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "link":"https://suazbakery.netlify.app/"
+      "heading": "Qoutes Generator: Random Qoutes Generator",
+      "paragraph": "A random qoutes generator. View detailed qoutes with a user-friendly interface, real-time suggestions, and responsive design.",
+      "image" :"https://images.unsplash.com/photo-1642775413906-0d3ccc24f66e?q=80&w=1782&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link":"https://randomqoutesgen.netlify.app/"
     },
     {
       "id": 5,
