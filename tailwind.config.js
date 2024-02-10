@@ -101,7 +101,8 @@ module.exports = {
       },
       fontFamily:{
         'primary':"Montserrat",
-        'accent':'Playfair Display'
+        'accent':'Playfair Display',
+        'accent-about':'Josefin Sans'
       },
       gridTemplateColumns:{
         'rows':'1fr 1fr 1fr',

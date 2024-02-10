@@ -8,7 +8,7 @@ const Exp =()=>{
     return(
         <section id="about" className="w-full bg-dark-100 text-neutral-50 h-full">
             <div className="container max-w-[90rem] mx-auto flex items-center justify-center py-[2rem]">
-                <p className="w-3/4 leading-8 sm:leading-[54px] text-lg sm:text-xl text-center font-accent ">{data.text}</p>
+                <p className="w-3/4 leading-8 sm:leading-[54px] text-lg sm:text-xl text-center font-accent-about ">{data.text}</p>
             </div>
         </section>
     )
