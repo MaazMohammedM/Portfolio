@@ -10,7 +10,7 @@ const Connect =()=>{
                 <div className="grid grid-cols-2 gap-3 sm:gap-0 sm:grid-cols-3 w-4/5 sm:w-1/2 mx-auto">
                     {data.map((item)=>{
                         return <div key={item.id} className="mx-auto transition-all hover:scale-105">
-                            <a  href={item.link}><Icon icon={item.name} width="48" height="48" className="w-8 sm:w-12" /></a>
+                            <a target="_blank"  href={item.link}><Icon icon={item.name} width="48" height="48" className="w-8 sm:w-12" /></a>
                         </div>
                     })}
                 </div>
