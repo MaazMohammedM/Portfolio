@@ -11,7 +11,7 @@ const Certification =()=>{
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 w-4/5 sm:w-1/2 justify-items-center  mx-auto gap-6 mb-12">
                 {
                     data.map((item)=>{
-                       return < CertificationCard key={item.id} heading={item.name} backgroundImage={item.image}/>
+                       return < CertificationCard key={item.id} heading={item.name} backgroundImage={item.image} link={item.link}/>
                     })
                 }
                 
