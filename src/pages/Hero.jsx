@@ -6,11 +6,12 @@ import gameTheme from "../Videos/gameTheme.mp4";
 import clsx from "clsx";
 
 
+
 const Hero = () => {
 
     const handleDownload =()=>{
         let link = document.createElement('a');
-        link.href = '../pages/Maaz_Resume.pdf';
+        link.href = '../Maaz_Resume.pdf';
         link.download = 'Maaz_UI_React_Resume.pdf';
         link.click();
         console.log('clicked')
