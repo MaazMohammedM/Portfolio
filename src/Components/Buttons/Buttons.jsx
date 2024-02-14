@@ -1,8 +1,8 @@
 import React from "react";
 
-const Button =({children,className,style,link})=>{
+const Button =({children,className,style,link,onclick})=>{
     return(
-        <button className={` font-primary text-neutral-900 text-xs md:text-base transition-all font-medium leading-7 hover:cursor-pointer rounded-lg ${className}`} 
+        <button onClick={onclick} className={` font-primary text-neutral-900 text-xs md:text-base transition-all font-medium leading-7 hover:cursor-pointer rounded-lg ${className}`} 
         style={{
             padding: '0.5em 1em', // Adjust padding ratio as needed
             fontSize: style?.fontSize || '1rem',
