@@ -5,7 +5,16 @@ import profile from "../Images/profilePhoto.png";
 import gameTheme from "../Videos/gameTheme.mp4";
 import clsx from "clsx";
 
+
 const Hero = () => {
+
+    const handleDownload =()=>{
+        let link = document.createElement('a');
+        link.href = '../pages/Maaz_Resume.pdf';
+        link.download = 'Maaz_UI_React_Resume.pdf';
+        link.click();
+        console.log('clicked')
+    }
     return (
         <section className="max-h-full md:h-[90svh] hero bg-accent-900/75 px-2 py-[7.5rem] md:py-0  md:px-16 w-full relative z-auto flex items-center justify-center
         
@@ -23,7 +32,7 @@ const Hero = () => {
                 <div className="container flex flex-col gap-12 w-full items-center md:items-start md:w-[60%]">
                     <Herotext />
                     <section className="inline-flex items-center gap-2 md:gap-6">
-                        <Button
+                        <Button onClick={handleDownload}
                             className={clsx('bg-accent-100',
                             //hover
                             'hover:bg-accent-200',
@@ -37,7 +46,7 @@ const Hero = () => {
                             )}
                             children={`Download CV`}
                         />
-                        <Button
+                        <Button 
                             className={clsx('bg-primary-400',
                             //hover
                             'hover:bg-primary-600',
