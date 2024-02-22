@@ -8,7 +8,7 @@ const Button =({children,className,style,link,onClick})=>{
             fontSize: style?.fontSize || '1rem',
             ...style,
           }}>
-            <a onClick={onClick} className="outline-none text-xs md:text-base text-inherit" href={link}>{children}</a>
+            <a onClick={onClick} className="outline-none text-xs md:text-base text-inherit" target="_blank" href={link}>{children}</a>
         </button>
     )
 }
