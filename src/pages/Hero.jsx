@@ -33,7 +33,7 @@ const Hero = () => {
                 <div className="container flex flex-col gap-12 w-full items-center md:items-start md:w-[60%]">
                     <Herotext />
                     <section className="inline-flex items-center gap-2 md:gap-6">
-                        <Button onClick={handleDownload}
+                        <Button link={`https://drive.google.com/file/d/1SCSUzN7yD6-F6eqrfUubvHkzpaGnM45N/view?usp=sharing`}
                             className={clsx('bg-accent-100',
                             //hover
                             'hover:bg-accent-200',
@@ -45,7 +45,7 @@ const Hero = () => {
                            // 'disabled:bg-accent-100/50 disabled:cursor-not-allowed'
                             
                             )}
-                            children={`Download CV`}
+                            children={`View CV`}
                         />
                         <Button 
                             className={clsx('bg-primary-400',
