@@ -1,65 +1,37 @@
 [
-  {
-    "id": 1,
-    "name": "vscode-icons:file-type-html"
-  },
-  {
-    "id": 2,
-    "name": "vscode-icons:file-type-css"
-  },
-  {
-    "id": 3,
-    "name": "vscode-icons:file-type-js-official"
-  },
-  {
-    "id": 4,
-    "name": "skill-icons:react-dark"
-  },
-  {
-    "id": 5,
-    "name": "skill-icons:tailwindcss-dark"
-  },
-  {
-    "id": 6,
-    "name": "icon-park:seo"
-  },
-  {
-    "id": 7,
-    "name": "skill-icons:sass"
-  },
-  
-  {
-    "id": 8,
-    "name": "skill-icons:git"
-  },
-  {
-    "id": 9,
-    "name": "logos:npm-icon"
-  },
-  {
-    "id": 10,
-    "name": "dashicons:rest-api",
-    "color":"black"
-  },
-  {
-    "id": 11,
-    "name": "devicon:mocha"
-  },
-  {
-    "id": 12,
-    "name": "skill-icons:bootstrap"
-  },
-  {
-    "id": 13,
-    "name": "skill-icons:netlify-dark"
-  },
-  {
-    "id": 14,
-    "name": "logos:figma"
-  },
-  {
-    "id": 15,
-    "name": "simple-icons:githubpages",
-    "color":"black"
-  }
+  { "id": 1, "name": "JavaScript" },
+  { "id": 2, "name": "TypeScript" },
+  { "id": 3, "name": "HTML5" },
+  { "id": 4, "name": "CSS3" },
+  { "id": 5, "name": "React.js" },
+  { "id": 6, "name": "Redux" },
+  { "id": 7, "name": "Zustand" },
+  { "id": 8, "name": "Tailwind CSS" },
+  { "id": 9, "name": "Bootstrap" },
+  { "id": 10, "name": "Material UI" },
+  { "id": 11, "name": "Radix UI" },
+  { "id": 12, "name": "Shadcn UI" },
+  { "id": 13, "name": "SASS" },
+  { "id": 14, "name": "SCSS" },
+  { "id": 15, "name": "Formik" },
+  { "id": 16, "name": "Yup" },
+  { "id": 17, "name": "Zod" },
+  { "id": 18, "name": "Cypress" },
+  { "id": 19, "name": "Mocha" },
+  { "id": 20, "name": "Playwright" },
+  { "id": 21, "name": "Selenium" },
+  { "id": 22, "name": "Unit Testing" },
+  { "id": 23, "name": "Git" },
+  { "id": 24, "name": "GitHub" },
+  { "id": 25, "name": "NPM" },
+  { "id": 26, "name": "Yarn" },
+  { "id": 27, "name": "Webpack" },
+  { "id": 28, "name": "Figma" },
+  { "id": 29, "name": "REST APIs" },
+  { "id": 30, "name": "Responsive Design" },
+  { "id": 31, "name": "Cross-browser Compatibility" },
+  { "id": 32, "name": "DOM Manipulation" },
+  { "id": 33, "name": "Event Handling" },
+  { "id": 34, "name": "Product Ownership" },
+  { "id": 35, "name": "Team Management" }
 ]

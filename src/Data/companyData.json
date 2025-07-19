@@ -1,11 +1,21 @@
 [
     {
-        "id":1,
-        "companyName":"Infosys Limited, Bengaluru",
-        "duration":"Nov 2021 - Present | System Engineer",
-        "desc":"During my tenure at Infosys, I played a pivotal role in the development of the Inspector tool, a critical solution for the client company. The project involved crafting a comprehensive tool for the testing team, providing a centralized dashboard for scheduling and managing test cases.",
-        "highlight":"I was responsible for the end-to-end development lifecycle, including UI component creation, bug resolution, and overall tool functionality assurance. This encompassed developing intuitive and efficient UI components, meticulously debugging the tool, and ensuring its seamless operation.",
-        "tech":"HTML, CSS, JS, React.js, Mocha.",
-        "conclusion":"My journey with the Inspector tool project at Infosys not only enriched my technical expertise but also deepened my understanding of the intricate balance between design and functionality. Contributing to a tool pivotal in the testing process was a rewarding experience, and I take pride in being part of a team that delivered impactful solutions."
+      "id": 1,
+      "companyName": "CreamCollar EdTech, Chennai",
+      "duration": "April 2024 – Present | Frontend React Engineer",
+      "desc": "Contributed as a senior developer at a product-based EdTech company, building 6 large-scale responsive web apps using React, TypeScript, Redux, and Tailwind CSS, with dynamic form validation and REST API integration.",
+      "highlight": "Designed and implemented scalable UI architecture with state management, code splitting, lazy loading, and a shared component library. Owned the admin portal lifecycle, including deployment, bug resolution, and collaboration with cross-functional stakeholders. Mentored 3 interns through code reviews, task assignment, and technical guidance.",
+      "tech": "React.js, TypeScript, Redux, Tailwind CSS, Zod, REST APIs, Git, Yarn",
+      "conclusion": "This role enabled me to take ownership of end-to-end features and sharpened my leadership and mentoring abilities while building scalable and performant EdTech platforms."
+    },
+    {
+      "id": 2,
+      "companyName": "Infosys Limited, Bengaluru",
+      "duration": "November 2021 – March 2024 | System Engineer",
+      "desc": "Started as a trainee and was certified as a React developer during the onboarding phase. Initially worked as a Web Automation Tester using Selenium, JavaScript, and Mocha for a Netherlands-based client, and later transitioned into a frontend developer role.",
+      "highlight": "Built a test case management portal using React and JavaScript for the same client. Collaborated with QA and development teams to align automation scripts and frontend features with project requirements.",
+      "tech": "JavaScript, React.js, Selenium, Mocha, HTML5, CSS3",
+      "conclusion": "My experience at Infosys provided me with a strong foundation in both automation testing and frontend development, enabling smooth collaboration across QA and dev teams in enterprise projects."
     }
-]
+  ]
+  

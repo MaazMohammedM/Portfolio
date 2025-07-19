@@ -11,8 +11,8 @@ const Hero = () => {
 
     const handleDownload =()=>{
         let link = document.createElement('a');
-        link.href = '../Maaz_Resume.pdf';
-        link.download = 'Maaz_UI_React_Resume.pdf';
+        link.href = '../Maaz_React_Developer_Resume.pdf';
+        link.download = 'Maaz_React_Developer_Resume.pdf';
         link.click();
         console.log('clicked')
     }
@@ -33,7 +33,7 @@ const Hero = () => {
                 <div className="container flex flex-col gap-12 w-full items-center md:items-start md:w-[60%]">
                     <Herotext />
                     <section className="inline-flex items-center gap-2 md:gap-6">
-                        <Button link={`https://drive.google.com/file/d/1SCSUzN7yD6-F6eqrfUubvHkzpaGnM45N/view?usp=sharing`}
+                        <Button link={`https://drive.google.com/file/d/1J0xd-Qs3q7RZa6QoyVtJGiXX-kRXGumv/view?usp=sharing`}
                             className={clsx('bg-accent-100',
                             //hover
                             'hover:bg-accent-200',
@@ -45,19 +45,7 @@ const Hero = () => {
                            // 'disabled:bg-accent-100/50 disabled:cursor-not-allowed'
                             
                             )}
-                            children={`View CV`}
-                        />
-                        <Button 
-                            className={clsx('bg-primary-400',
-                            //hover
-                            'hover:bg-primary-600',
-                            //focus
-                            'outline-none',
-                            'ring-primary-400/70 ring-offset-2',
-                            'focus-visible:ring-2 focus:scale-[0.98]',
-                            
-                            )}
-                            children={`Let's Talk`}
+                            children={`View Resume`}
                         />
                     </section>
                 </div>
